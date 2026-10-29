@@ -1,7 +1,7 @@
 # Testing Bingo: Team [XX]
 
-**Team captain:** [name]
-**Team members:** [name], [name], [name], [name]
+**Team captain:** [Asher Plotsky]
+**Team members:** [Grant Phillips], [Moises Cortes]
 
 One person (the team captain) fills this in. Put the Test ID of a **failing** test case in each square you earn. One test case can only fill **one** square.
 
